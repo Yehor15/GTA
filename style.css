@@ -1,0 +1,97 @@
+body {
+  background: #08348C;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #a5b7dc;
+  text-align: center;
+  padding: 20px;
+}
+
+header h1 {
+  color: #08348C;
+  font-size: 40px;
+}
+
+nav {
+  background-color: #05296E;
+  padding: 10px 0;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: #52F2C5;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.game-logo {
+  width: 300px;
+  height: 200px;
+  margin-top: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  border: #52F2C5 solid 2px;
+  border-radius: 10px;
+  color: #52F2C5;
+  font-size: 22px;
+  padding: 10px;
+  text-align: center;
+  line-height: 1.6;
+}
+
+.about {
+  background-color: #758EBF;
+  color: #08348C;
+  border: #a5b7dc solid 2px;
+}
+
+h2, h3 {
+  text-align: center;
+  color: #52F2C5;
+  margin-top: 20px;
+}
+
+ul {
+  text-align: center;
+  padding: 0;
+  font-size: 18px;
+}
+
+ul li {
+  padding: 5px;
+  color: #758EBF;
+}
+
+ul li strong {
+  color: #cdd5e3;
+}
+
+/* Стилі для підвалу */
+footer {
+  background-color: #05296E;
+  color: #52F2C5;
+  text-align: center;
+  padding: 15px;
+  margin-top: 30px;
+}
+
+
